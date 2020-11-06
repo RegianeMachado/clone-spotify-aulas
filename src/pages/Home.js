@@ -7,10 +7,10 @@ function Home() {
       <Header premium={false} />
       <Banner bannerPremium={false}>
         <h1>Escutar muda tudo</h1>
-        <p>
+        <h4>
           Milhões de músicas e podcasts para explorar. E nem precisa de cartão
           de crédito.
-        </p>
+        </h4>
         <button>Obtenha o spotify free</button>
       </Banner>
     </div>

@@ -4,9 +4,27 @@ section {
 }
 
 section h1 {
-  color: white;
+  color: #1ed760;
+  font-size: 156px;
+  line-height: 166px;
+  margin-bottom: 40px;
   padding: 0;
   margin: 0;
+}
+
+section h4 {
+  color: #1ed760;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+section button {
+  color: #2940a8;
+  background-color: #1ed760;
+  line-height: 16px;
+  letter-spacing: 1.4px;
+  padding: 16px 40px 16px;
+  border-radius: 20px;
 }
 
 .banner-premium {
