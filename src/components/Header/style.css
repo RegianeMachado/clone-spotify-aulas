@@ -1,0 +1,36 @@
+header {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+header ul {
+  display: flex;
+  flex-direction: row;
+}
+
+header ul li {
+  width: 120px;
+  list-style-type: none;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+header ul li:hover {
+  color: chartreuse;
+}
+
+img {
+  width: 150px;
+}
+
+.theme-premium {
+  background-color: #509bf5;
+}
+
+.theme-premium-ul li:hover {
+  color: blacks;
+}
